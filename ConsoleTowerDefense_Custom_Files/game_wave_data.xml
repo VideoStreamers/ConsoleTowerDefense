@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Timing = time after completed wave or start game, when the wave should start -->
+<!-- Spawnduration = how long the enemy spawning should last -->
+
+<!-- Enemy types: basic, fast, tank -->
+
+<Waves>
+    <Wave timing="2000" spawnDuration="1000">
+        <Enemy type="basic" count="1"></Enemy>
+    </Wave>
+    
+    <Wave timing="3000" spawnDuration="3000">
+        <Enemy type="basic" count="5"></Enemy>
+    </Wave>
+    
+    <Wave timing="3000" spawnDuration="5000">
+        <Enemy type="basic" count="8"></Enemy>
+        <Enemy type="fast" count="3"></Enemy>
+    </Wave>
+
+    <Wave timing="3000" spawnDuration="8000">
+        <Enemy type="basic" count="12"></Enemy>
+        <Enemy type="fast" count="6"></Enemy>
+    </Wave>
+
+    <Wave timing="4000" spawnDuration="10000">
+        <Enemy type="basic" count="10"></Enemy>
+        <Enemy type="tank" count="1"></Enemy>
+    </Wave>
+
+    <Wave timing="4000" spawnDuration="6000">
+        <Enemy type="fast" count="15"></Enemy>
+    </Wave>
+
+    <Wave timing="4000" spawnDuration="12000">
+        <Enemy type="basic" count="15"></Enemy>
+        <Enemy type="fast" count="8"></Enemy>
+        <Enemy type="tank" count="3"></Enemy>
+    </Wave>
+
+    <Wave timing="5000" spawnDuration="18000">
+        <Enemy type="basic" count="30"></Enemy>
+        <Enemy type="fast" count="12"></Enemy>
+    </Wave>
+
+    <Wave timing="5000" spawnDuration="15000">
+        <Enemy type="basic" count="10"></Enemy>
+        <Enemy type="tank" count="8"></Enemy>
+    </Wave>
+
+    <Wave timing="4000" spawnDuration="10000">
+        <Enemy type="fast" count="35"></Enemy>
+        <Enemy type="tank" count="2"></Enemy>
+    </Wave>
+
+    <Wave timing="5000" spawnDuration="25000">
+        <Enemy type="basic" count="40"></Enemy>
+        <Enemy type="fast" count="20"></Enemy>
+        <Enemy type="tank" count="12"></Enemy>
+    </Wave>
+
+    <Wave timing="6000" spawnDuration="30000">
+        <Enemy type="basic" count="20"></Enemy>
+        <Enemy type="fast" count="40"></Enemy>
+        <Enemy type="tank" count="20"></Enemy>
+    </Wave>
+</Waves>

@@ -1,0 +1,34 @@
+--- Launched Console Tower Defense on "21/05/2026 14:24:35" ---
+[14:24:35.083] [GameEngine : Constructor]
+[14:24:35.086] [ConsoleRendenerer : Constructor]
+[14:24:35.093] [ConsoleRendenerer : InitializeConsole]
+[14:24:35.093] [GameManager : Constructor]
+[14:24:35.094] [EnemyManager : Constructor]
+[14:24:35.095] [WaveManager : Constructor]
+[14:24:35.098] [TowerManager : Constructor]
+[14:24:35.098] [Castle : Constructor]
+[14:24:35.099] [Map : Constructor]
+[14:24:35.121] [XmlHandler : Constructor]
+[14:24:35.129] [XmlHandler : ParseWaveXmlFile]
+[14:24:35.129] [XmlHandler : ParseWaveXmlFile] EXITING - Finished parsing XML file structure.
+[14:24:35.129] [XmlHandler : ApplyWaveDataToGame]
+[14:24:35.131] [XmlHandler : Constructor] No existing save file found at "C:\00 - Projects\ConsoleTowerDefense\ConsoleTowerDefense_Custom_Files\player_save_data.xml". A new save file will be created upon saving.
+[14:24:35.429] [GameEngine : Start]
+[14:24:35.433] [Map : LoadLevel]
+[14:24:36.772] [Tower : Constructor] (x1648)
+[14:24:36.773] [WaveManager : NextWave]
+[14:24:36.774] [WaveManager : StartWaveSpawning] Initializing gradual spawn sequence for Wave 0.
+[14:24:36.774] [Tower : Constructor] (x4)
+[14:24:36.775] [XmlHandler : WritePlayerSaveData] Saving player progress...
+[14:24:36.776] [Tower : Constructor] (x4)
+[14:24:36.776] [Enemy : Constructor]
+[14:24:36.778] [EnemyManager : AddEnemy]
+[14:24:41.670] [Tower : Constructor] (x6012)
+[14:24:41.670] [WaveManager : NextWave]
+[14:24:41.670] [WaveManager : StartWaveSpawning] Initializing gradual spawn sequence for Wave 1.
+[14:24:41.672] [XmlHandler : WritePlayerSaveData] Saving player progress...
+[14:24:41.672] [Enemy : Constructor]
+[14:24:41.672] [EnemyManager : AddEnemy]
+[14:24:42.433] [Tower : Constructor] (x920)
+[14:24:42.433] [Enemy : Constructor]
+[14:24:42.436] [EnemyManager : AddEnemy]

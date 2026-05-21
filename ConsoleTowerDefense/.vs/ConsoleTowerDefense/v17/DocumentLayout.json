@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\xmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|solutionrelative:xmlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94020D15-8382-448A-ADCF-7E3E7DFC9C9C}|ConsoleTowerDefense.csproj|solutionrelative:projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlHandler.cs",
+              "DocumentMoniker": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\XmlHandler.cs",
+              "RelativeDocumentMoniker": "XmlHandler.cs",
+              "ToolTip": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\XmlHandler.cs",
+              "RelativeToolTip": "XmlHandler.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAowGoBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:57:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\Projectile.cs",
+              "RelativeDocumentMoniker": "Projectile.cs",
+              "ToolTip": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\Projectile.cs",
+              "RelativeToolTip": "Projectile.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAnwIMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:54:31.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:52:45.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwvxgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:39:32.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\00 - Projects\\ConsoleTowerDefense\\ConsoleTowerDefense\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAkwIMBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:12:43.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
